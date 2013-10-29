@@ -17,5 +17,4 @@ Lab: Tuesday 9am
 ![alt text](http://octodex.github.com/labtocat/)
 
 ###New Features Under Development
-	+ [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
-	
+  + [FizzBuzz](http://www.codinghorror.com/blog/2007/02/why-cant-programmers-program.html)
